@@ -22,6 +22,8 @@ nltk
 
 sklearn
 
+imblearn
+
 ### To use Tree-Based methods:
 
 sklearn
